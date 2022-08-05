@@ -2,7 +2,7 @@
 
 Controle de acesso ao usuário em uma aplicação frontend com ReactJS. Permitindo atribuir roles em cada rota que o usuário terá acesso após estar logado.
 
- <img align="center" alt="MA-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+ <img align="center" alt="MA-Ts" height="30" width="40" src="https://github.com/Margarida-Andre/Controle-De-Acesso/blob/d2e133b8d6e91cc988812e459fe01b3da0297fbb/src/assets/login.png">
 
 # 💻Tecnologias
 
